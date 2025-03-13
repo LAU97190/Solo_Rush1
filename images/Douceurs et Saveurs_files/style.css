@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --background-master: rgb(17, 3, 34);
+    --background-section: white;
+}
+
+header {
+    background-color: var();
+}
